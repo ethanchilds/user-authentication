@@ -1,0 +1,5 @@
+﻿  gradeSystem.cpp
+C:\Users\ee11c\OneDrive\Documents\GitHub\Grade-System\grade-system\ConsoleApplication1\gradeSystem.cpp(81,29): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\ee11c\OneDrive\Documents\GitHub\Grade-System\grade-system\ConsoleApplication1\gradeSystem.cpp(48): warning C4715: 'userAuthentication': not all control paths return a value
+C:\Users\ee11c\OneDrive\Documents\GitHub\Grade-System\grade-system\ConsoleApplication1\gradeSystem.cpp(96): warning C4715: 'getClasses': not all control paths return a value
+  ConsoleApplication1.vcxproj -> C:\Users\ee11c\OneDrive\Documents\GitHub\Grade-System\grade-system\x64\Debug\ConsoleApplication1.exe
