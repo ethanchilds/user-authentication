@@ -16,15 +16,15 @@ Languages
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+- [youtube.com](https://www.youtube.com/watch?v=qWPlRubVQ38)
+- [w3schools.com](https://www.w3schools.com/cpp/default.asp)
+- [stackoverflow.com](https://stackoverflow.com/questions/14265581/parse-split-a-string-in-c-using-string-delimiter-standard-c)
+- [learningaboutelectronics.com](earningaboutelectronics.com/Articles/How-to-append-to-a-file-in-C++.php#:~:text=In%20order%20for%20us%20to,explain%20in%20the%20next%20paragraph.&text=With%20the%20full%20line%2C%20ofstream,append%20contents%20to%20the%20file.)
+- [cplusplus.com](https://cplusplus.com/reference/list/list/list/)
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- One initial thing that I want to work on with this project is likely to be obvious, but I would like to expand it past just user authentication. In its current state this program is an acceptable entry level project into C++, however, besides account verification and creation, this program doesn't actually do anything. My original plan with this project was to eventually develop it into a grade system where users could store class and grade information and then recieve some sort of summary output. In the future I could see myself completing that idea in full.
+- Something about this project that I would really like to change is the orginization and overall structure of the code. As stated previously, this project was meant for me to learn basic C++ fundamentals and I feel that I have achieved that, however, I do not feel I wrote particulary nice code that could be excepted as following all conventions.
+- One problem with learning a new language that I have found is that you almost never know the easiest way to do something and will often result to the first answer. when it came to parsing my text file in this assignment that is exactly what I did. I could not find great ways to parse string online, so I grabbed the first solution that worked for me and stuck with it. I believe this not only led to efficiency issues, but also redundancy in my code. I would like to fix this in the future by encapuslating the text parser within a function that should allow for less repetition and hopefully no efficiency issues.
