@@ -4,7 +4,7 @@ This software is a simple C++ user authentication program. What this program doe
 
 My main purpose in writing this software was to learn how the major conventions of C++ and how to work with files in C++. This project has helped me learn and get comfortable in a new language and IDE. This project is by no means incredibly advanced, however, it did give me the opportunity to learn foundational C++.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/ywQxgJQFHIw)
 
 # Development Environment
 
