@@ -1,18 +1,18 @@
 # Overview
 
-{Provide a description of the software that you wrote to demonstrate the C++ language.}
+This software is a simple C++ user authentication program. What this program does is first asks a user if they have an account. After finding out if they have an account, if they have one, the program will ask for their credentials and then log them in. If the user does not have an account they will be prompted for the information to create said account, and after entering said information the account will be created and registered.
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
+My main purpose in writing this software was to learn how the major conventions of C++ and how to work with files in C++. This project has helped me learn and get comfortable in a new language and IDE. This project is by no means incredibly advanced, however, it did give me the opportunity to learn foundational C++.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+Tools
+- Visual Studio
 
-{Describe the programming language that you used and any libraries.}
+Languages
+- C++
 
 # Useful Websites
 
